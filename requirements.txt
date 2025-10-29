@@ -1,0 +1,5 @@
+click>=8.0
+python-magic
+regex
+pyyaml
+pytest
